@@ -32,6 +32,8 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats</h2>
+
 <a href="https://freerobuxreal69.vercel.app/api/top-langs/?username=paydash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"><img align="right" height="250" width="350" src="https://freerobuxreal69.vercel.app/api/top-langs/?username=paydash&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"></a>
 
 <a href="https://open.spotify.com/user/h06gq5crtqgxaulfteqhz0mfj"><img align="right" width="425" src="https://spotify-recently-played-readme.vercel.app/api?user=h06gq5crtqgxaulfteqhz0mfj"></a>
